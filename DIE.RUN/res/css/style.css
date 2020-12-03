@@ -7,10 +7,12 @@ body {
     background-color:#005668;
     color: white;
     font-family: "I pixel u";
-    font-size: 3.2em;
+    font-size: 3em;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 a {
@@ -18,7 +20,7 @@ a {
 }
 
 #banner {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .screenshots {
