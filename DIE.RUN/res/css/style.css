@@ -30,3 +30,13 @@ a {
 .privacy {
     font-family: "Verdana, Geneva, Tahoma, sans-serif";
 }
+
+.privacy p {
+    text-align: left;
+    margin-left: 20px;
+    font-size: 0.75em;
+}
+
+.privacy a {
+    font-size: 0.75em;
+}
